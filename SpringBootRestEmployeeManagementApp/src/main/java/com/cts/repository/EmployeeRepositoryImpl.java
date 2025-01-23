@@ -1,5 +1,8 @@
 package com.cts.repository;
 
-public class EmployeeRepositoryImpl {
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class EmployeeRepositoryImpl  {
 
 }
